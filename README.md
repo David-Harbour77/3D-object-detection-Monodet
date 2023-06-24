@@ -80,8 +80,6 @@ If you find this project useful in your research, please cite:
 }
 ```
 
-## Contact
-x.shi19@imperial.ac.uk
 
 ## Acknowledgement
 * [Detectron2](https://github.com/facebookresearch/detectron2)
